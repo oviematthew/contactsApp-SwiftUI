@@ -2,7 +2,7 @@
 
 ### This is a midterm project that makes use of swift Ui to create a contact component
 
-### Screenshot
+### Screenrecord
 ![Website Screenshot](./screenrecord.gif)
 
 
